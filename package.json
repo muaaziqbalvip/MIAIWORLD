@@ -1,0 +1,12 @@
+{
+  "name": "mi-ai",
+  "version": "2.0.0",
+  "description": "MI AI - Advanced Intelligence by Muaaz Iqbal | Muslim Islam Org",
+  "main": "index.html",
+  "scripts": {
+    "start": "python ai.py",
+    "dev": "python ai.py"
+  },
+  "author": "Muaaz Iqbal | Muslim Islam Org",
+  "license": "MIT"
+}
